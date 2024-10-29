@@ -13,6 +13,10 @@ Automatic Shutdown: The computer will automatically shut down after the selected
 Choose a Duration: Select one of the three timer options.
 Start the Timer: The program will begin the countdown and shut down the computer after the specified time.
 
+## Built With
+Python: The core programming language used.
+Tkinter: Provides the graphical interface for easy interaction.
+
 ## Planned Improvements
 I plan to enhance this program by adding a feature that detects when a video file is opened. The program would then retrieve the video’s duration and prompt the user to confirm if they would like the computer to shut down after the video ends.
 
